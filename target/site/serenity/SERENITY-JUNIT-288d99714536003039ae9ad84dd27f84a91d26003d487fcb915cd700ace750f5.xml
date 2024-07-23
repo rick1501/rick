@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="2" failures="0" name="Navegación exitosa a una página en DemoQA" skipped="0" tests="4" time="158.33" timestamp="2024-07-23 07:36:01"><testcase name="Interacción exitosa con el módulo textbox"><error message="element click intercepted: Element &lt;button id=&quot;submit&quot; type=&quot;button&quot; class=&quot;btn btn-primary&quot;&gt;...&lt;/button&gt; is not clickable at point (1044, 679). Other element would receive the click: &lt;iframe frameborder=&quot;0&quot; src=&quot;https://9f5b8ef8d6d675926e2aa29a9f1b4616.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html&quot; id=&quot;google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0&quot; title=&quot;3rd party ad content&quot; name=&quot;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;728&quot; height=&quot;90&quot; data-is-safeframe=&quot;true&quot; sandbox=&quot;allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation&quot; allow=&quot;attribution-reporting&quot; aria-label=&quot;Advertisement&quot; tabindex=&quot;0&quot; data-google-container-id=&quot;1&quot; style=&quot;border: 0px; vertical-align: bottom;&quot; data-load-complete=&quot;true&quot;&gt;&lt;/iframe&gt;&#10;  (Session info: MicrosoftEdge=126.0.2592.113)&#10;Build info: version: '4.10.0', revision: 'c14d967899'&#10;System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.23'&#10;Driver info: org.openqa.selenium.edge.EdgeDriver&#10;Command: [0027627b2205f4a4028d8b7c642dac7e, clickElement {id=f.C7DE2206162CCBEF03E32EAEB9F6BA06.d.3D7670B46946CE5968913BF9B6BA2E9F.e.48}]&#10;Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 126.0.2592.113, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53533}, msedge: {msedgedriverVersion: 126.0.2592.113 (088a59f7406..., userDataDir: C:\Users\rickn\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53533/devtoo..., se:cdpVersion: 126.0.2592.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}&#10;Element: [[EdgeDriver: MicrosoftEdge on windows (0027627b2205f4a4028d8b7c642dac7e)] -&gt; id: submit]&#10;Session ID: 0027627b2205f4a4028d8b7c642dac7e" type="org.openqa.selenium.ElementClickInterceptedException">element click intercepted: Element &lt;button id="submit" type="button" class="btn btn-primary"&gt;...&lt;/button&gt; is not clickable at point (1044, 679). Other element would receive the click: &lt;iframe frameborder="0" src="https://9f5b8ef8d6d675926e2aa29a9f1b4616.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html" id="google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="728" height="90" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="attribution-reporting" aria-label="Advertisement" tabindex="0" data-google-container-id="1" style="border: 0px; vertical-align: bottom;" data-load-complete="true"&gt;&lt;/iframe&gt;
+  (Session info: MicrosoftEdge=126.0.2592.113)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.23'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [0027627b2205f4a4028d8b7c642dac7e, clickElement {id=f.C7DE2206162CCBEF03E32EAEB9F6BA06.d.3D7670B46946CE5968913BF9B6BA2E9F.e.48}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 126.0.2592.113, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53533}, msedge: {msedgedriverVersion: 126.0.2592.113 (088a59f7406..., userDataDir: C:\Users\rickn\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53533/devtoo..., se:cdpVersion: 126.0.2592.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (0027627b2205f4a4028d8b7c642dac7e)] -&gt; id: submit]
+Session ID: 0027627b2205f4a4028d8b7c642dac7e</error><system-err>element click intercepted: Element &lt;button id="submit" type="button" class="btn btn-primary"&gt;...&lt;/button&gt; is not clickable at point (1044, 679). Other element would receive the click: &lt;iframe frameborder="0" src="https://9f5b8ef8d6d675926e2aa29a9f1b4616.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html" id="google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="728" height="90" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="attribution-reporting" aria-label="Advertisement" tabindex="0" data-google-container-id="1" style="border: 0px; vertical-align: bottom;" data-load-complete="true"&gt;&lt;/iframe&gt;
+  (Session info: MicrosoftEdge=126.0.2592.113)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.23'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [0027627b2205f4a4028d8b7c642dac7e, clickElement {id=f.C7DE2206162CCBEF03E32EAEB9F6BA06.d.3D7670B46946CE5968913BF9B6BA2E9F.e.48}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 126.0.2592.113, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53533}, msedge: {msedgedriverVersion: 126.0.2592.113 (088a59f7406..., userDataDir: C:\Users\rickn\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53533/devtoo..., se:cdpVersion: 126.0.2592.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (0027627b2205f4a4028d8b7c642dac7e)] -&gt; id: submit]
+Session ID: 0027627b2205f4a4028d8b7c642dac7e&#13;
+com.demo.tasks.TextBox.performAs(TextBox.java:21)&#13;
+com.demo.stepDefinitions.elements.elUsuarioInteractuaLaSecciónTextbox(elements.java:40)&#13;
+io.cucumber.java.Invoker.doInvoke(Invoker.java:66)&#13;
+io.cucumber.java.Invoker.invoke(Invoker.java:24)&#13;
+io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)&#13;
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)&#13;
+io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:56)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:84)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:75)&#13;
+io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137)&#13;
+io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)&#13;
+io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)&#13;
+io.cucumber.junit.CucumberSerenityBaseRunner.runChild(CucumberSerenityBaseRunner.java:330)&#13;
+io.cucumber.junit.CucumberSerenityBaseRunner.runChild(CucumberSerenityBaseRunner.java:51)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)&#13;
+</system-err></testcase><testcase name="Interacción exitosa con el módulo checkbox"><error message="element click intercepted: Element &lt;button aria-label=&quot;Toggle&quot; title=&quot;Toggle&quot; type=&quot;button&quot; class=&quot;rct-collapse rct-collapse-btn&quot;&gt;...&lt;/button&gt; is not clickable at point (431, 590). Other element would receive the click: &lt;div&gt;...&lt;/div&gt;&#10;  (Session info: MicrosoftEdge=126.0.2592.113)&#10;Build info: version: '4.10.0', revision: 'c14d967899'&#10;System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.23'&#10;Driver info: org.openqa.selenium.edge.EdgeDriver&#10;Command: [36fe633a053cff56b6e905e26c7ba8b9, clickElement {id=f.F16F8C3E11B4F96BCA329FAEFEC403EB.d.88FAE220FA22963B7247A9E570A7510F.e.55}]&#10;Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 126.0.2592.113, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53761}, msedge: {msedgedriverVersion: 126.0.2592.113 (088a59f7406..., userDataDir: C:\Users\rickn\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53761/devtoo..., se:cdpVersion: 126.0.2592.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}&#10;Element: [[EdgeDriver: MicrosoftEdge on windows (36fe633a053cff56b6e905e26c7ba8b9)] -&gt; xpath: //span[contains(text(), 'Documents')]/../../button]&#10;Session ID: 36fe633a053cff56b6e905e26c7ba8b9" type="org.openqa.selenium.ElementClickInterceptedException">element click intercepted: Element &lt;button aria-label="Toggle" title="Toggle" type="button" class="rct-collapse rct-collapse-btn"&gt;...&lt;/button&gt; is not clickable at point (431, 590). Other element would receive the click: &lt;div&gt;...&lt;/div&gt;
+  (Session info: MicrosoftEdge=126.0.2592.113)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.23'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [36fe633a053cff56b6e905e26c7ba8b9, clickElement {id=f.F16F8C3E11B4F96BCA329FAEFEC403EB.d.88FAE220FA22963B7247A9E570A7510F.e.55}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 126.0.2592.113, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53761}, msedge: {msedgedriverVersion: 126.0.2592.113 (088a59f7406..., userDataDir: C:\Users\rickn\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53761/devtoo..., se:cdpVersion: 126.0.2592.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (36fe633a053cff56b6e905e26c7ba8b9)] -&gt; xpath: //span[contains(text(), 'Documents')]/../../button]
+Session ID: 36fe633a053cff56b6e905e26c7ba8b9</error><system-err>element click intercepted: Element &lt;button aria-label="Toggle" title="Toggle" type="button" class="rct-collapse rct-collapse-btn"&gt;...&lt;/button&gt; is not clickable at point (431, 590). Other element would receive the click: &lt;div&gt;...&lt;/div&gt;
+  (Session info: MicrosoftEdge=126.0.2592.113)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.23'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [36fe633a053cff56b6e905e26c7ba8b9, clickElement {id=f.F16F8C3E11B4F96BCA329FAEFEC403EB.d.88FAE220FA22963B7247A9E570A7510F.e.55}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 126.0.2592.113, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53761}, msedge: {msedgedriverVersion: 126.0.2592.113 (088a59f7406..., userDataDir: C:\Users\rickn\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53761/devtoo..., se:cdpVersion: 126.0.2592.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (36fe633a053cff56b6e905e26c7ba8b9)] -&gt; xpath: //span[contains(text(), 'Documents')]/../../button]
+Session ID: 36fe633a053cff56b6e905e26c7ba8b9&#13;
+com.demo.tasks.CheckBoxTask.performAs(CheckBoxTask.java:16)&#13;
+com.demo.stepDefinitions.elements.elUsuariointeractualaseccióncheckbox(elements.java:57)&#13;
+io.cucumber.java.Invoker.doInvoke(Invoker.java:66)&#13;
+io.cucumber.java.Invoker.invoke(Invoker.java:24)&#13;
+io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)&#13;
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)&#13;
+io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:56)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:84)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:75)&#13;
+io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137)&#13;
+io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)&#13;
+io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:144)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:28)&#13;
+io.cucumber.junit.FeatureRunner.run(FeatureRunner.java:137)&#13;
+io.cucumber.junit.CucumberSerenityBaseRunner.runChild(CucumberSerenityBaseRunner.java:330)&#13;
+io.cucumber.junit.CucumberSerenityBaseRunner.runChild(CucumberSerenityBaseRunner.java:51)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)&#13;
+</system-err></testcase><testcase name="Interacción exitosa con el módulo radiobutton"/><testcase name="Interacción exitosa con el módulo weebelements"/></testsuite>

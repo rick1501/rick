@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Reproducir una cancion en demo","reproduccion exitosa.","PENDING","2024-07-22T09:30:47.4581834-05:00[America/Bogota]","0.0","0.51"
+"Navegación exitosa a una página en DemoQA","Interacción exitosa con el módulo Elements","PENDING","2024-07-22T10:44:55.5601264-05:00[America/Bogota]","0.0","0.48"
+"Navegación exitosa a una página en DemoQA","Interacción exitosa con el módulo textbox","ERROR","2024-07-22T20:59:00.2096933-05:00[America/Bogota]","0.0","0.27"
+"Navegación exitosa a una página en DemoQA","Interacción exitosa con el módulo checkbox","ERROR","2024-07-22T20:59:00.7753539-05:00[America/Bogota]","0.0","0.69"

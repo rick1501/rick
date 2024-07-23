@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Reproducir una cancion en youtube.","reproduccion exitosa.","ERROR","2024-07-22T09:31:14.7655674-05:00[America/Bogota]","0.0","25.24"
+"Reproducir una cancion en youtube.","reproduccion exitosa.","ERROR","2024-07-22T10:30:32.0367442-05:00[America/Bogota]","0.0","14.41"
+"Navegación exitosa a una página en DemoQA","reproduccion exitosa.","ERROR","2024-07-22T10:37:07.8815038-05:00[America/Bogota]","0.0","12.89"
+"Navegación exitosa a una página en DemoQA","Interacción exitosa con el módulo textbox","ERROR","2024-07-23T07:36:01.9323029-05:00[America/Bogota]","0.0","48.97"
+"Navegación exitosa a una página en DemoQA","Interacción exitosa con el módulo checkbox","ERROR","2024-07-23T07:36:51.7095809-05:00[America/Bogota]","0.0","50.21"

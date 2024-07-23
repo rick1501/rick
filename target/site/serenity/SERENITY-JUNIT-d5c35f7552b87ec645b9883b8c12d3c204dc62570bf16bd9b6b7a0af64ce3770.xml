@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="2" failures="0" name="Navegación exitosa a una página en DemoQA" skipped="0" tests="3" time="54.45" timestamp="2024-07-22 08:03:53"><testcase name="Interacción exitosa con el módulo Elements"/><testcase name="Interacción exitosa con el módulo textbox"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.google.common.base.Preconditions.checkNotNull(Preconditions.java:889)&#13;
+com.demo.stepDefinitions.elements.queElUsuarioAbreYSeleccionaTextbox(elements.java:55)&#13;
+✽.que el usuario abre y selecciona textbox(file:///C:/Users/rickn/Downloads/ProyectoBaseScreenplay-main-20240722T140951Z-001/ProyectoBaseScreenplay-main/src/test/resources/features/elements.feature:12)&#13;
+</system-err></testcase><testcase name="Interacción exitosa con el módulo checkbox"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.google.common.base.Preconditions.checkNotNull(Preconditions.java:889)&#13;
+com.demo.stepDefinitions.elements.queElUsuarioAbreYSeleccionaCheckBox(elements.java:80)&#13;
+✽.que el usuario abre y selecciona check box(file:///C:/Users/rickn/Downloads/ProyectoBaseScreenplay-main-20240722T140951Z-001/ProyectoBaseScreenplay-main/src/test/resources/features/elements.feature:18)&#13;
+</system-err></testcase></testsuite>
